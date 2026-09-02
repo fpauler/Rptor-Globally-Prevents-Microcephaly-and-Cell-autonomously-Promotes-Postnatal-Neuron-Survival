@@ -1,0 +1,38 @@
+Include,Exclude
+reactive oxygen,T cell
+mitochondr,B cell
+cytokine,leukocyte
+axon,mononuclear
+lipid metabolic,chondrocyte
+glucose metabolic,lymphocyte
+mitotic cell cycle,osteoblast
+death,fibroblast
+TOR,muscle
+Notch,meiosis
+MAPK,meiotic
+JAK-STAT,mesenchymal
+epidermal growth factor,pancreatic
+phosphatidylinositol 3-kinase/protein kinase B signal,vascular
+p53,vasculogenesis
+,angiogenesis
+,natural killer
+,immune
+,retinal
+,symbiont
+,larval
+,heart
+,lung
+,blastoderm
+,preblastoderm
+,dendritic cell
+,mast cell
+,T-helper
+,inhibitory
+,dopaminergic
+,cholinergic
+,cytokinetic
+,cytokinesis
+,oocyte
+,axonem
+,pyrophosphatase
+,virus
