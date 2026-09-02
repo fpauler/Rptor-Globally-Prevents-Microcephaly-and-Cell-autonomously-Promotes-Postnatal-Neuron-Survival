@@ -1,0 +1,37 @@
+Include,Exclude
+TOR,T cell
+reactive oxygen,B cell
+mitochondr,leukocyte
+pyrop,mononuclear
+necrop,chondrocyte
+apop,lymphocyte
+cytokine,osteoblast
+axon,fibroblast
+lipid metabolic,muscle
+glucose metabolic,meiosis
+cell cycle,meiotic
+,mesenchymal
+,pancreatic
+,vascular
+,vasculogenesis
+,angiogenesis
+,natural killer
+,immune
+,retinal
+,symbiont
+,larval
+,heart
+,lung
+,blastoderm
+,preblastoderm
+,dendritic cell
+,mast cell
+,T-helper
+,inhibitory
+,dopaminergic
+,cholinergic
+,cytokinetic
+,cytokinesis
+,oocyte
+,axonem
+,pyrophosphatase
