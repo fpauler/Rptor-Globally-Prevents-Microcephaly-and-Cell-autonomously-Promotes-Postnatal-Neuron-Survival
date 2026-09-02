@@ -28,9 +28,11 @@ this folder contains data/plots/scripts relevant for the latest version of the m
 
 The folder plots contains data for Main figures (folder Main), Supplementary figures (folder Supplement), Quality Control (folder QC) and Reviewer's figures used to reply to reviewer's comments (folder reviewer).
 
-Note that some information on figures that did not change during the review process are available in the biorvix folder with a different figure number:
+Note1: Some information on figures that did not change during the review process are available in the biorvix folder with a different figure number:
 
 | biorvix                   | final                       |
 |---------------------------|-----------------------------|
 | Figure S7                 | Figure S10                  |
 | Figure S6                 | Figure S8                   |
+
+Note2: PDFs with size >1Mb were converted to jpg to save space.
