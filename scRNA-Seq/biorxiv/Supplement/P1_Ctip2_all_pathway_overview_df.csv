@@ -1,0 +1,44 @@
+id	cluster	ordered_cluster	GO_term	group
+GO:0044255	1	1	cellular lipid metabolic process	metabolism
+GO:0006629	1	1	lipid metabolic process	metabolism
+GO:0006643	1	1	membrane lipid metabolic process	metabolism
+GO:0046486	1	1	glycerolipid metabolic process	metabolism
+GO:0045834	1	1	positive regulation of lipid metabolic process	metabolism
+GO:0006665	1	1	sphingolipid metabolic process	metabolism
+GO:0006644	1	1	phospholipid metabolic process	metabolism
+GO:0006664	1	1	glycolipid metabolic process	metabolism
+GO:0006638	1	1	neutral lipid metabolic process	metabolism
+GO:0006650	1	1	glycerophospholipid metabolic process	metabolism
+GO:0019216	1	1	regulation of lipid metabolic process	metabolism
+GO:0006687	1	1	glycosphingolipid metabolic process	metabolism
+GO:0046485	1	1	ether lipid metabolic process	metabolism
+GO:0001816	2	2	cytokine production	cytokine
+GO:0001819	2	2	positive regulation of cytokine production	cytokine
+GO:0071706	2	2	tumor necrosis factor superfamily cytokine production	cytokine
+GO:1903555	2	2	regulation of tumor necrosis factor superfamily cytokine production	cytokine
+GO:0001817	2	2	regulation of cytokine production	cytokine
+GO:1903557	2	2	positive regulation of tumor necrosis factor superfamily cytokine production	cytokine
+GO:0002534	2	2	cytokine production involved in inflammatory response	cytokine
+GO:1903556	2	2	negative regulation of tumor necrosis factor superfamily cytokine production	cytokine
+GO:0010934	2	2	macrophage cytokine production	cytokine
+GO:0010935	2	2	regulation of macrophage cytokine production	cytokine
+GO:0001818	2	2	negative regulation of cytokine production	cytokine
+GO:1900015	2	2	regulation of cytokine production involved in inflammatory response	cytokine
+GO:1900017	2	2	positive regulation of cytokine production involved in inflammatory response	cytokine
+GO:1902742	7	7	apoptotic process involved in development	apoptosis
+GO:0097049	7	7	motor neuron apoptotic process	apoptosis
+GO:0060561	7	7	apoptotic process involved in morphogenesis	apoptosis
+GO:0033032	7	7	regulation of myeloid cell apoptotic process	apoptosis
+GO:0033028	7	7	myeloid cell apoptotic process	apoptosis
+GO:0010906	3	3	regulation of glucose metabolic process	metabolism
+GO:0006006	3	3	glucose metabolic process	metabolism
+GO:0001961	5	5	positive regulation of cytokine-mediated signaling pathway	cytokine
+GO:0060760	5	5	positive regulation of response to cytokine stimulus	cytokine
+GO:0032042	8	8	mitochondrial DNA metabolic process	mitochondria
+GO:0007005	8	8	mitochondrion organization	mitochondria
+GO:0000963	9	9	mitochondrial RNA processing	mitochondria
+GO:0070131	9	9	positive regulation of mitochondrial translation	mitochondria
+GO:0010907	4	4	positive regulation of glucose metabolic process	metabolism
+GO:0043277	6	6	apoptotic cell clearance	apoptosis
+GO:0000959	10	10	mitochondrial RNA metabolic process	mitochondria
+GO:0000302	11	11	response to reactive oxygen species	ROX

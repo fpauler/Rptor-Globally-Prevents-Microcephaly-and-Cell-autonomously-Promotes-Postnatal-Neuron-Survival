@@ -1,0 +1,46 @@
+id	cluster	ordered_cluster	GO_term	group
+GO:0060561	1	1	apoptotic process involved in morphogenesis	apoptosis
+GO:1902742	1	1	apoptotic process involved in development	apoptosis
+GO:2001240	1	1	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	apoptosis
+GO:0097192	1	1	extrinsic apoptotic signaling pathway in absence of ligand	apoptosis
+GO:2001239	1	1	regulation of extrinsic apoptotic signaling pathway in absence of ligand	apoptosis
+GO:1902253	1	1	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	apoptosis
+GO:2001237	1	1	negative regulation of extrinsic apoptotic signaling pathway	apoptosis
+GO:2001236	1	1	regulation of extrinsic apoptotic signaling pathway	apoptosis
+GO:2001244	1	1	positive regulation of intrinsic apoptotic signaling pathway	apoptosis
+GO:0072332	1	1	intrinsic apoptotic signaling pathway by p53 class mediator	apoptosis
+GO:0097190	1	1	apoptotic signaling pathway	apoptosis
+GO:0097191	1	1	extrinsic apoptotic signaling pathway	apoptosis
+GO:2001235	1	1	positive regulation of apoptotic signaling pathway	apoptosis
+GO:0045834	3	3	positive regulation of lipid metabolic process	metabolism
+GO:0006687	3	3	glycosphingolipid metabolic process	metabolism
+GO:0006664	3	3	glycolipid metabolic process	metabolism
+GO:0006629	3	3	lipid metabolic process	metabolism
+GO:0019216	3	3	regulation of lipid metabolic process	metabolism
+GO:0006644	3	3	phospholipid metabolic process	metabolism
+GO:0044255	3	3	cellular lipid metabolic process	metabolism
+GO:0048311	6	6	mitochondrion distribution	mitochondria
+GO:0034643	6	6	establishment of mitochondrion localization, microtubule-mediated	mitochondria
+GO:0047497	6	6	mitochondrion transport along microtubule	mitochondria
+GO:0051654	6	6	establishment of mitochondrion localization	mitochondria
+GO:0051646	6	6	mitochondrion localization	mitochondria
+GO:0001960	5	5	negative regulation of cytokine-mediated signaling pathway	cytokine
+GO:0060761	5	5	negative regulation of response to cytokine stimulus	cytokine
+GO:0001959	5	5	regulation of cytokine-mediated signaling pathway	cytokine
+GO:0060759	5	5	regulation of response to cytokine stimulus	cytokine
+GO:0006122	2	2	mitochondrial electron transport, ubiquinol to cytochrome c	mitochondria
+GO:0006123	2	2	mitochondrial electron transport, cytochrome c to oxygen	mitochondria
+GO:0042775	2	2	mitochondrial ATP synthesis coupled electron transport	mitochondria
+GO:0032291	7	7	axon ensheathment in central nervous system	axon
+GO:0032292	7	7	peripheral nervous system axon ensheathment	axon
+GO:0008366	7	7	axon ensheathment	axon
+GO:0006919	9	9	activation of cysteine-type endopeptidase activity involved in apoptotic process	apoptosis
+GO:0043280	9	9	positive regulation of cysteine-type endopeptidase activity involved in apoptotic process	apoptosis
+GO:0043281	9	9	regulation of cysteine-type endopeptidase activity involved in apoptotic process	apoptosis
+GO:0048680	4	4	positive regulation of axon regeneration	axon
+GO:0048679	4	4	regulation of axon regeneration	axon
+GO:0031103	8	8	axon regeneration	axon
+GO:0048678	8	8	response to axon injury	axon
+GO:0021955	10	10	central nervous system neuron axonogenesis	axon
+GO:0072593	11	11	reactive oxygen species metabolic process	ROX
+GO:0043277	12	12	apoptotic cell clearance	apoptosis

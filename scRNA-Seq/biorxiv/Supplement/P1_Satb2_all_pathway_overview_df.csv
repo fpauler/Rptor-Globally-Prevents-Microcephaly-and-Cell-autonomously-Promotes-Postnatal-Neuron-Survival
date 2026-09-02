@@ -1,0 +1,41 @@
+id	cluster	ordered_cluster	GO_term	group
+GO:0006629	1	1	lipid metabolic process	metabolism
+GO:0044255	1	1	cellular lipid metabolic process	metabolism
+GO:0046486	1	1	glycerolipid metabolic process	metabolism
+GO:0006638	1	1	neutral lipid metabolic process	metabolism
+GO:0045834	1	1	positive regulation of lipid metabolic process	metabolism
+GO:0006644	1	1	phospholipid metabolic process	metabolism
+GO:0019216	1	1	regulation of lipid metabolic process	metabolism
+GO:0006650	1	1	glycerophospholipid metabolic process	metabolism
+GO:0006664	1	1	glycolipid metabolic process	metabolism
+GO:0006643	1	1	membrane lipid metabolic process	metabolism
+GO:0051402	5	5	neuron apoptotic process	apoptosis
+GO:0043523	5	5	regulation of neuron apoptotic process	apoptosis
+GO:2001236	5	5	regulation of extrinsic apoptotic signaling pathway	apoptosis
+GO:2001242	5	5	regulation of intrinsic apoptotic signaling pathway	apoptosis
+GO:0042981	5	5	regulation of apoptotic process	apoptosis
+GO:0006915	5	5	apoptotic process	apoptosis
+GO:1904035	5	5	regulation of epithelial cell apoptotic process	apoptosis
+GO:0097191	5	5	extrinsic apoptotic signaling pathway	apoptosis
+GO:0008630	5	5	intrinsic apoptotic signaling pathway in response to DNA damage	apoptosis
+GO:0061564	3	3	axon development	axon
+GO:0007409	3	3	axonogenesis	axon
+GO:0050770	3	3	regulation of axonogenesis	axon
+GO:0007411	3	3	axon guidance	axon
+GO:0048675	3	3	axon extension	axon
+GO:0050772	3	3	positive regulation of axonogenesis	axon
+GO:0030516	3	3	regulation of axon extension	axon
+GO:0019221	4	4	cytokine-mediated signaling pathway	cytokine
+GO:0060761	4	4	negative regulation of response to cytokine stimulus	cytokine
+GO:0060759	4	4	regulation of response to cytokine stimulus	cytokine
+GO:0001960	4	4	negative regulation of cytokine-mediated signaling pathway	cytokine
+GO:0001959	4	4	regulation of cytokine-mediated signaling pathway	cytokine
+GO:0007005	2	2	mitochondrion organization	mitochondria
+GO:0033108	2	2	mitochondrial respiratory chain complex assembly	mitochondria
+GO:0010822	2	2	positive regulation of mitochondrion organization	mitochondria
+GO:0007006	2	2	mitochondrial membrane organization	mitochondria
+GO:0006839	6	6	mitochondrial transport	mitochondria
+GO:0000959	7	7	mitochondrial RNA metabolic process	mitochondria
+GO:0001816	8	8	cytokine production	cytokine
+GO:0051881	9	9	regulation of mitochondrial membrane potential	mitochondria
+GO:1990542	10	10	mitochondrial transmembrane transport	mitochondria

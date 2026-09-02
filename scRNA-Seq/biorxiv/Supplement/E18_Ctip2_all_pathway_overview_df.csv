@@ -1,0 +1,46 @@
+id	cluster	ordered_cluster	GO_term	group
+GO:0048843	4	4	negative regulation of axon extension involved in axon guidance	axon
+GO:1902287	4	4	semaphorin-plexin signaling pathway involved in axon guidance	axon
+GO:0048846	4	4	axon extension involved in axon guidance	axon
+GO:0048675	4	4	axon extension	axon
+GO:0048841	4	4	regulation of axon extension involved in axon guidance	axon
+GO:0008045	4	4	motor neuron axon guidance	axon
+GO:0045773	4	4	positive regulation of axon extension	axon
+GO:0030516	4	4	regulation of axon extension	axon
+GO:0007409	4	4	axonogenesis	axon
+GO:0061564	4	4	axon development	axon
+GO:1903214	9	9	regulation of protein targeting to mitochondrion	mitochondria
+GO:1902108	9	9	regulation of mitochondrial membrane permeability involved in apoptotic process	mitochondria
+GO:1902110	9	9	positive regulation of mitochondrial membrane permeability involved in apoptotic process	mitochondria
+GO:0046902	9	9	regulation of mitochondrial membrane permeability	mitochondria
+GO:1902686	9	9	mitochondrial outer membrane permeabilization involved in programmed cell death	mitochondria
+GO:0097345	9	9	mitochondrial outer membrane permeabilization	mitochondria
+GO:0035794	9	9	positive regulation of mitochondrial membrane permeability	mitochondria
+GO:0007006	9	9	mitochondrial membrane organization	mitochondria
+GO:0032042	9	9	mitochondrial DNA metabolic process	mitochondria
+GO:0051654	1	1	establishment of mitochondrion localization	mitochondria
+GO:0034643	1	1	establishment of mitochondrion localization, microtubule-mediated	mitochondria
+GO:0047497	1	1	mitochondrion transport along microtubule	mitochondria
+GO:0051646	1	1	mitochondrion localization	mitochondria
+GO:0019896	1	1	axonal transport of mitochondrion	mitochondria
+GO:0048311	1	1	mitochondrion distribution	mitochondria
+GO:2000379	2	2	positive regulation of reactive oxygen species metabolic process	ROX
+GO:2000377	2	2	regulation of reactive oxygen species metabolic process	ROX
+GO:1903427	2	2	negative regulation of reactive oxygen species biosynthetic process	ROX
+GO:0072593	2	2	reactive oxygen species metabolic process	ROX
+GO:1903428	2	2	positive regulation of reactive oxygen species biosynthetic process	ROX
+GO:1903377	8	8	negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	apoptosis
+GO:0036480	8	8	neuron intrinsic apoptotic signaling pathway in response to oxidative stress	apoptosis
+GO:1903376	8	8	regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway	apoptosis
+GO:0043154	8	8	negative regulation of cysteine-type endopeptidase activity involved in apoptotic process	apoptosis
+GO:2000352	8	8	negative regulation of endothelial cell apoptotic process	apoptosis
+GO:0045834	10	10	positive regulation of lipid metabolic process	metabolism
+GO:0019216	10	10	regulation of lipid metabolic process	metabolism
+GO:0006638	10	10	neutral lipid metabolic process	metabolism
+GO:1903747	3	3	regulation of establishment of protein localization to mitochondrion	mitochondria
+GO:0072655	3	3	establishment of protein localization to mitochondrion	mitochondria
+GO:0010917	5	5	negative regulation of mitochondrial membrane potential	mitochondria
+GO:0032292	6	6	peripheral nervous system axon ensheathment	axon
+GO:0051881	7	7	regulation of mitochondrial membrane potential	mitochondria
+GO:2001267	11	11	regulation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway	apoptosis
+GO:0042775	12	12	mitochondrial ATP synthesis coupled electron transport	mitochondria

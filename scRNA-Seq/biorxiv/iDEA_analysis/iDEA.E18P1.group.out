@@ -1,0 +1,136 @@
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_MONETARY failed, using "C" 
+6: Setting LC_PAPER failed, using "C" 
+7: Setting LC_MEASUREMENT failed, using "C" 
+RDS_files/GO_anno_iDEA.RDS RDS_files/E18_P1_group_deg_list.RDS RDS_files/E18_P1
+E18 Ctip2 all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  290 
+## number of genes:  3885 
+## number of cores:  10 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+E18 Satb2 all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  289 
+## number of genes:  3904 
+## number of cores:  10 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+P1 Ctip2 all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  283 
+## number of genes:  4141 
+## number of cores:  10 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+P1 Satb2 all
+## ===== iDEA INPUT SUMMARY ==== ##
+## number of annotations:  277 
+## number of genes:  4105 
+## number of cores:  10 
+## fitting the model with gene sets information... 
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+Error : pinv(): svd failed
+R version 4.4.1 (2024-06-14)
+Platform: x86_64-pc-linux-gnu
+Running under: Debian GNU/Linux 12 (bookworm)
+
+Matrix products: default
+BLAS:   /nfs/scistore07/clustersw/debian/bookworm/R/4.4.1/lib/R/lib/libRblas.so 
+LAPACK: /nfs/scistore07/clustersw/debian/bookworm/R/4.4.1/lib/R/lib/libRlapack.so;  LAPACK version 3.12.0
+
+locale:
+[1] C
+
+time zone: Europe/Vienna
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] iDEA_1.0.1
+
+loaded via a namespace (and not attached):
+ [1] compiler_4.4.1    snow_0.4-4        doSNOW_1.0.20     parallel_4.4.1   
+ [5] Rcpp_1.0.13       codetools_0.2-20  doParallel_1.0.17 iterators_1.0.14 
+ [9] foreach_1.5.2     pbmcapply_1.5.1  
